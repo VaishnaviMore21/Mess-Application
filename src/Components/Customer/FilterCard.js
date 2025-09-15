@@ -1,6 +1,4 @@
-// *****************************
-// @author - Prathamesh Patil  **
-// ****************************
+
 import React from 'react'
 import { BsCurrencyRupee } from 'react-icons/bs';
 
